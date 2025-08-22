@@ -38,3 +38,42 @@ lIVE PREVIEW:
 ---
 
 ## 📂 Project Structure
+/project-root
+│── index.html # Main UI
+│── style.css # Styling + responsive design
+│── app.js # Speech recognition & command handling
+│── assets/ # Images (logo, icons, etc.)
+
+
+---
+
+## ▶️ How to Run
+1. Clone this repo:
+   ```bash
+   git clone https://github.com/your-username/voice-assistant.git
+
+
+Open index.html in a browser (preferably Chrome or Edge, since Web Speech API is not supported in all browsers).
+
+Click the Start Button 🎤 and give a command.
+
+📸 Screenshots
+
+<img width="815" height="464" alt="VIRTUAL_ASSISTANT" src="https://github.com/user-attachments/assets/969806a1-a256-4d4f-b7c4-1de7335320a1" />
+
+💡 Future Improvements
+
+Add support for more commands (e.g., weather, news, reminders).
+
+Integrate with APIs (Google Calendar, OpenWeatherMap, etc.).
+
+Multi-language support (Arabic, Urdu, etc.).
+
+👩‍💻 About Me
+
+I am Ammara Hussain, a Software Engineering student at UET Taxila, passionate about
+AI, Web Development, and Automation.
+
+This project highlights my ability to build interactive web applications with modern JavaScript APIs and clean, responsive UI.
+
+⭐ If you like this project, feel free to fork, use, or suggest improvements!
