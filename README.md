@@ -4,8 +4,10 @@ A lightweight **Virtual Voice Assistant** built using **JavaScript, HTML, and CS
 It listens to user commands, speaks back responses, and can perform small automated actions such as opening links or fetching the current date/time.  
 
 This project demonstrates my skills in **front-end development, voice interaction, and UI responsiveness**.
-lIVE PREVIEW: 
+
 ---
+
+## LIVE PREVIEW: https://ammara-hussain.github.io/Virtual-Voice-Assistant/
 
 ## 🚀 Features
 - **Speech Recognition** (using Web Speech API):
